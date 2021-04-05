@@ -6,9 +6,9 @@
 
 ### Then you can easily transfer your code into this Package with no issues!
 
- <a href="https://discord.gg/HMUfMXDQsV"><img src="https://discordapp.com/api/guilds/773352845738115102/embed.png" alt="Discord server" /></a>
 
-### Example Usage
+
+### Пример Использования
 
 ```js
 
