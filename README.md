@@ -60,7 +60,7 @@ bot.onInteractionCreate()
 
 ```
 
-More Information in our [Documentation](https://dbd.leref.ga/guide/slash-commands)
+
 
 ## Music Support
 
@@ -146,5 +146,5 @@ bot.status({
 
 ## Support
 
-If you don't understand something, confused, bug reports, errors, or need assistance. Join our [Official DBD.JS Official Support Server](https://discord.gg/HMUfMXDQsV)
+If you don't understand something, confused, bug reports, errors, or need assistance. Join our [Official DBD.JS Support Server](https://discord.gg/HMUfMXDQsV)
 
