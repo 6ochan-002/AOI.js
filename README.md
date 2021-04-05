@@ -146,5 +146,5 @@ bot.status({
 
 ## Support
 
-If you don't understand something, confused, bug reports, errors, or need assistance. Join our [Official DBD.JS Support Server](https://discord.gg/HMUfMXDQsV)
+If you don't understand something, confused, bug reports, errors, or need assistance. Join our [Official DBD.js Support Server](https://discord.gg/HMUfMXDQsV)
 
