@@ -12,26 +12,19 @@
 
 ```js
 
-const dbd = require("dbd.js")
+const Aoijs = require("aoi.js")
 
-const bot = new dbd.Bot({
-
-token: "TOKEN YOUR BOT", 
-
-prefix: "PREFIX YOUR BOT" 
-
+const bot = new Aoijs.Bot({
+token: "TOKEN YOUR BOT",
+prefix: "PREFIX YOUR BOT"
 })
-
 bot.onMessage()
+//commands(команды)
 
 bot.command({
-
-name: "ping", 
-
-code: `$ping Pong!` 
-
+name: "ping", //Trigger(Триггер)
+code: `$ping Pong!` //Code(Код)
 })
-
 ```
 
 ## Slash Commands Support
