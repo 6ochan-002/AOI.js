@@ -1,4 +1,4 @@
-# DBD.js
+# AOI.js
 
 # This Package, allows you to make Discord Bot with ease!
 
