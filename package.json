@@ -1,20 +1,16 @@
 {
   "name": "Name your bot",
   "version": "1.0.0",
-  "description": "Description your bot(optional)",
+  "description": "Description your bot",
   "main": "index.js",
+  "dependencies": {
+    "aoi.js": "^1.0.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/6ochan-002/AOI.js.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/6ochan-002/AOI.js/issues"
-  },
-  "homepage": "https://github.com/6ochan-002/AOI.js#readme"
+  "license": "ISC"
 }
