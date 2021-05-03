@@ -8,14 +8,14 @@ bot.onMessage()
 //commands(команды)
 
 bot.command({
-name: "ping", //Trigger(Триггер)
-code: `$ping Pong!` //Code(Код)
+name: "ping", //Trigger(Триггер команды)
+code: `$ping Pong!` //Code(Код команды)
 })
 
 //status(статус бота)
 
 bot.status({
-  text: "Your text!",
+  text: "Status your bot",
   type: "WATCHING",
   time: 12
 })
