@@ -1,15 +1,17 @@
 {
   "name": "Name your bot",
   "version": "1.0.0",
-  "description": "Description your bot",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "engines": {
+    "node": "12.x"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aoi.js": "^1.0.6"
+    "aoi.js": "^3.0.0"
   }
 }
